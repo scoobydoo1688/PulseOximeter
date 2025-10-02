@@ -1,3 +1,3 @@
-# PulseOxFinal
+# Pulse Oximeter Final
 
-A repository of code used for Kathie and Nicole's final pulse oximeter project
+A repository of code used for Kathie and Nicole's final pulse oximeter project.
